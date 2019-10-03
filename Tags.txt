@@ -1,0 +1,9 @@
+<!DOCTYPE> = declaration represents the document type, and helps browsers to display web pages correctly.
+<!DOCTYPE html> = All HTML documents must start with a document type declaration.
+<html></html> = The HTML document itself begins with <html> and ends with </html>.
+<head></head> = element is a container for metadata. HTML metadata is data about the HTML document. Metadata is not displayed.
+<body></body> = The visible part of the HTML document is between <body> and </body>.
+<h1>to<h6> = <h1> defines the most important heading. <h6> defines the least important heading.
+<p></p> = HTML paragraphs are defined with the <p> tag.
+<a></a> = HTML links are defined with the <a> tag.
+<img> = HTML images are defined with the <img> tag. The source file (src), alternative text (alt), width, and height are provided as attributes.

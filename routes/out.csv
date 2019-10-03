@@ -1,0 +1,50 @@
+Tag,Description
+<!DOCTYPE html>,All HTML documents must start with a document type declaration.
+<html>,The HTML document itself begins with <html> and ends with </html>.
+<head>,This element is a container for metadata. HTML metadata is data about the HTML document. Metadata is not displayed.
+<body>,The visible part of the HTML document is between <body> and </body>.
+<h1> to <h6>,Defines the most important heading. <h6> defines the least important heading.
+<p>,HTML paragraphs are defined with the <p> tag.
+<a>,HTML links are defined with the <a> tag.
+<img>,HTML images are defined with the <img> tag. The source file (src), alternative text (alt), width, and height are provided as attributes.
+<button>,HTML buttons are defined with the <button> tag.
+<ul>,HTML lists are defined with the <ul> (unordered/bullet list) or the <ol> (ordered/numbered list) tag, followed by <li> tags (list items).
+<li>,Each list item starts with <li> tag.
+<br>,<br> is an empty element without a closing tag (the <br> tag defines a line break. Use <br> if you want a line break (a new line) without starting a new paragraph.
+<hr>,<hr> tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule.
+<pre>,The text inside a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.
+<b>,<b> element defines bold text, without any extra importance.
+<strong>,<strong> element defines strong text, with added semantic "strong" importance.
+<i>,<i> element defines italic text, without any extra importance.
+<em>,<em> element defines emphasized text, with added semantic importance.
+<small>,<small> element defines smaller text.
+<mark>,<mark> element defines marked/highlighted text.
+<del>,<del> element defines deleted/removed text.
+<ins>,<ins> element defines inserted/added text.
+<sub>,<sub> element defines subscripted text.
+<sup>,<sup> element defines superscripted text.
+<q>,<q> element defines a short quotation. Browsers usually insert quotation marks around the <q> element.
+<abbr>,<abbr> element defines an abbreviation or an acronym.
+<address>,<address> element defines contact information (author/owner) of a document or an article. <address> element is usually displayed in italic. Most browsers will add a line break before and after the element.
+<cite>,<cite> element defines the title of a work.Browsers usually display <cite> elements in italic.
+<bdo>,<bdo> element defines bi-directional override. <bdo> element is used to override the current text direction.
+<!-- -->,Comment tags are used to insert comments in the HTML source code.
+<style>,An internal CSS is defined in the <head> section of an HTML page, within a <style> element.
+<link>,To use an external style sheet, add a link to it in the <head> section of the HTML page.
+<map>,<map> tag defines an image-map. An image-map is an image with clickable areas.
+<picture>,<picture> element to add more flexibility when specifying image resources. The <picture> element contains a number of <source> elements, each referring to different image sources. This way the browser can choose the image that best fits the current view and/or device.
+<source>,<source> element have attributes describing when their image is the most suitable.
+<table>,An HTML table is defined with the <table> tag
+<tr>,Each table row is defined with the <tr> tag.
+<th>,A table header is defined with the <th> tag.
+<td>,A table data/cell is defined with the <td> tag.
+<ol>,An ordered list starts with the <ol> tag.
+<dl>,<dl> tag defines the description list.
+<dt>,<dt> tag defines the term (name).
+<dd>,<dd> tag describes each term.
+<div>,Defines a section in a document(block-level).The <div> element is a block-level element.A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).<div> element is often used as a container for other HTML elements.
+<span>,Defines a section in a document (inline).An inline element does not start on a new line and only takes up as much width as necessary.
+<iframe>,The <iframe> tag defines a rectangular region within the document in which the browser can display a separate document, including scrollbars and borders. An inline frame is used to embed another document within the current HTML document.
+<script>,<script> tag is used to define a client-side script (JavaScript).<script> element either contains script statements, or it points to an external script file through the src attribute.
+<noscript>,<noscript> tag is used to provide an alternate content for users that have disabled scripts in their browser or have a browser that doesn't support client-side scripts.
+<meta>,The <meta> element is used to specify which character set is used, page description, keywords, author, and other metadata. Metadata is used by browsers (how to display content), by search engines (keywords), and other web services.
